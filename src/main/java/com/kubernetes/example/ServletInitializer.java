@@ -1,4 +1,4 @@
-package com.kubernetes.example.kubernetesexample;
+package com.kubernetes.example;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

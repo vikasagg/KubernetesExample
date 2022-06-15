@@ -1,4 +1,4 @@
-package com.kubernetes.example.kubernetesexample;
+package com.kubernetes.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
